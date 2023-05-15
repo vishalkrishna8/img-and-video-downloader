@@ -1,8 +1,8 @@
-# Image and video downloader
+## Image and video downloader
 
 This is an Image-Video Downloader built using JavaScript that allows users to download images and videos from various websites.
 
-**Features**
+## Features
 
 Users can download images from websites by entering the image URL.
 
@@ -12,7 +12,7 @@ The app displays a preview of the image or video before downloading.
 
  
 
-**Technologies**
+## Technologies
 
 This application was built using the following technologies:
 
@@ -21,7 +21,7 @@ This application was built using the following technologies:
 - JavaScript
 
 
-**Installation**
+## Installation
 
 To run this application locally, please follow these steps:
 
@@ -29,6 +29,6 @@ To run this application locally, please follow these steps:
 2. Open the `index.html` file in your browser.
 
 
-**License**
+## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use and modify this code as per your requirements.
